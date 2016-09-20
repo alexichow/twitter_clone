@@ -23,3 +23,6 @@
 
 # Ignore Spring files.
 /spring/*.pid
+
+# Ignore Sublime Text Workspace
+untitled.sublie-workspace
